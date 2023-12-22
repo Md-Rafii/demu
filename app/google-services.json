@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191314742290",
+    "project_id": "sendsms-f1a26",
+    "storage_bucket": "sendsms-f1a26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191314742290:android:5ada2f8df7c68b87681ccb",
+        "android_client_info": {
+          "package_name": "com.rafii.send_sms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEe-ZhYnm8O7e6hIZhEhiRVqCht1gGYi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
