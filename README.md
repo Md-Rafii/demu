@@ -1,6 +1,14 @@
-<h1 align="left">Hi, I'm Rafi 👋<br>About Me<br>I'm a professional Android app developer with a passion for creating innovative and user-friendly mobile applications. With extensive experience in Java and Android Studio, I specialize in developing efficient and robust apps that provide a seamless user experience.<br><br>Skills<br>Programming Languages: Java, php<br>Mobile Development: Android Studio,  XML<br>Version Control: Git, GitHub<br>Testing: JUnit, Espresso<br>Other: Firebase, RESTful APIs, SQL, UI/UX Design</h1>
+<h1 align="left">Hi, I'm Rafi 👋</h1>
 
-###
+### About Me
+I'm a professional Android app developer with a passion for creating innovative and user-friendly mobile applications. With extensive experience in Java and Android Studio, I specialize in developing efficient and robust apps that provide a seamless user experience.
+
+### Skills
+- **Programming Languages:** Java, PHP
+- **Mobile Development:** Android Studio, XML
+- **Version Control:** Git, GitHub
+- **Testing:** JUnit, Espresso
+- **Other:** Firebase, RESTful APIs, SQL, UI/UX Design
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
